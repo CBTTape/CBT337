@@ -1,0 +1,8 @@
+2023-08-06 03:30:14.934745 - Initialized conversion of CBT337
+2023-08-06 03:30:14.971527 - Received CBT.V505.FILE337.PDS from FILE337.XMI 
+2023-08-06 03:30:14.973546 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE337.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:30:14.974813 - Found $INFO.txt (text/plain) in CBT.V505.FILE337.PDS, moved to PDS/$INFO
+2023-08-06 03:30:14.975810 - Found @FILE337.txt (text/plain) in CBT.V505.FILE337.PDS, moved to PDS/@FILE337
+2023-08-06 03:30:14.976673 - Found JOBM.jcl (text/plain) in CBT.V505.FILE337.PDS, moved to PDS/JOBM
+2023-08-06 03:30:14.977615 - Found PLIM.jcl (text/plain) in CBT.V505.FILE337.PDS, moved to PDS/PLIM
+2023-08-06 03:30:14.978580 - Found TEXT.txt (text/plain) in CBT.V505.FILE337.PDS, moved to PDS/TEXT
